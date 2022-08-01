@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "sE7DG0Xp266UJMZr0r8OCuj56gol/tm5wXeIPv26wO0=",
+  "Source": "WebAppAPI",
+  "BasePath": "_content/WebAppAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAppAPI\\wwwroot",
+      "Source": "WebAppAPI",
+      "ContentRoot": "D:\\Work\\C#\\WebAppAPI\\WebAppAPI\\wwwroot\\",
+      "BasePath": "_content/WebAppAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Work\\C#\\WebAppAPI\\WebAppAPI\\wwwroot\\images\\ed60427b-d45c-40fd-aa69-713e54f38c22.jpg",
+      "SourceId": "WebAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Work\\C#\\WebAppAPI\\WebAppAPI\\wwwroot\\",
+      "BasePath": "_content/WebAppAPI",
+      "RelativePath": "images/ed60427b-d45c-40fd-aa69-713e54f38c22.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ed60427b-d45c-40fd-aa69-713e54f38c22.jpg"
+    },
+    {
+      "Identity": "D:\\Work\\C#\\WebAppAPI\\WebAppAPI\\wwwroot\\images\\No_Img.jpeg",
+      "SourceId": "WebAppAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Work\\C#\\WebAppAPI\\WebAppAPI\\wwwroot\\",
+      "BasePath": "_content/WebAppAPI",
+      "RelativePath": "images/No_Img.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\No_Img.jpeg"
+    }
+  ]
+}

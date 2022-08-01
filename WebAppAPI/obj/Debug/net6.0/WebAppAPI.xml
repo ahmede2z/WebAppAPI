@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAppAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WebAppAPI.Controllers.CategoriesController.AddCategory(WebAppAPI.Dtos.CategoryDto)">
+            <summary>
+            Add new Category
+            </summary>
+            <param name="CategoryDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppAPI.Controllers.CategoriesController.UpdateCategory(System.Nullable{System.Int32},WebAppAPI.Dtos.CategoryDto)">
+            <summary>
+            modify Category
+            </summary>
+            <param name="id"></param>
+            <param name="CategoryDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppAPI.Controllers.CategoriesController.DeleteCategory(System.Nullable{System.Int32})">
+            <summary>
+              Delete Category
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppAPI.Controllers.CategoriesController.GetAll">
+            <summary>
+              Display All Category
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppAPI.Controllers.CategoriesController.GetById(System.Nullable{System.Int32})">
+            <summary>
+              Get product by Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppAPI.Controllers.ProductsController.AddProduct(WebAppAPI.Dtos.ProductDto)">
+            <summary>
+            Add new product
+            </summary>
+            <param name="productDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppAPI.Controllers.ProductsController.UpdateProduct(WebAppAPI.Dtos.ProductDto,System.Nullable{System.Int32})">
+            <summary>
+            modify product
+            </summary>
+            <param name="id"></param>
+            <param name="productDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppAPI.Controllers.ProductsController.DeleteProduct(System.Nullable{System.Int32})">
+            <summary>
+              Delete product
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppAPI.Controllers.ProductsController.GetAll">
+            <summary>
+              Display All product
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppAPI.Controllers.ProductsController.GetById(System.Nullable{System.Int32})">
+            <summary>
+              Get product by Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
